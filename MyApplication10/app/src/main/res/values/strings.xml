@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application10</string>
+    <string name="question_text">ОС Android принадлежит компании Google?</string>
+    <string name="question_text1">Язык Java создан только для разработки мобильных приложений?</string>
+    <string name="question_text2">Можно ли создать объект абстрактного класса?</string>
+    <string name="question_text3">У объекта может быть только один метод?</string>
+    <string name="question_text4">Идентификатор элемента должен быть уникальным?</string>
+    <string name="true_btn">Да</string>
+    <string name="false_btn">Нет</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="cheat_text">Правильный ответ:</string>
+    <string name="cheat_btn">Смотреть ответ</string>
+</resources>

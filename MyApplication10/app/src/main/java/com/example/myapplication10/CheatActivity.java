@@ -16,6 +16,6 @@ public class CheatActivity extends AppCompatActivity {
         setContentView(R.layout.activity_cheat);
         isAnswerTrue = getIntent().getBooleanExtra("isAnswerTrue",false);
         cheatTextView = (TextView) findViewById(R.id.cheatTextView);
-        cheatTextView.setText(isAnswerTrue?"ДА":"НЕТ"); // что делает эта строка
+        cheatTextView.setText(isAnswerTrue?"ДА":"НЕТ"); 
     }
 }
